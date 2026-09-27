@@ -1,16 +1,16 @@
-# SB24 Lucky - ស្ដេច​បក្សី Bot
+# SB24 Lucky
 
-Telegram bot for informational updates and notifications.
+Telegram bot for service information and updates.
 
 ## Telegram profile
 
-**Name:** SB24 Lucky - ស្ដេច​បក្សី
+**Name:** SB24 Lucky
 
 **Username:** @SB24LuckyLiveBot
 
-**About:** ព័ត៌មាន និងការជូនដំណឹងថ្មីៗពី SB24 Lucky
+**About:** ព័ត៌មាន និងការណែនាំថ្មីៗអំពីសេវាកម្ម
 
-**Description:** ជូនដំណឹងអំពីព័ត៌មាន និងសកម្មភាពថ្មីៗរបស់ SB24 Lucky តាម Telegram។
+**Description:** ទទួលបានព័ត៌មាន និងការណែនាំថ្មីៗអំពីសេវាកម្ម SB24 Lucky តាម Telegram។
 
 ## Setup
 
@@ -18,4 +18,4 @@ Set the `BOT_TOKEN` environment variable and run:
 
 `python bot.py`
 
-This project does not include betting, wagering, odds, predictions, or automated gambling functionality.
+The bot provides informational service updates and does not implement gambling, wagering, odds, predictions, or betting functionality.
