@@ -11,14 +11,14 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "សូមស្វាគមន៍មកកាន់ SB24 Lucky។\n"
+        "សូមស្វាគមន៍មកកាន់ SB24 Connect។\n"
         "ទទួលបានព័ត៌មាន និងការណែនាំថ្មីៗអំពីសេវាកម្មតាម Telegram។"
     )
 
 
 async def about(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "SB24 Lucky\n"
+        "SB24 Connect\n"
         "ព័ត៌មាន និងការណែនាំថ្មីៗអំពីសេវាកម្មតាម Telegram។"
     )
 
