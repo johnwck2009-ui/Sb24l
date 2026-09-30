@@ -11,7 +11,8 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
-        "⚽ សូមស្វាគមន៍មកកាន់ SB24 Live Info! ទទួលព័ត៌មានការប្រកួតបាល់ទាត់ផ្ទាល់ ពិន្ទុ និងលទ្ធផលប្រកួតដែលបានអាប់ដេតតាមពេលវេលាជាក់ស្តែងនៅទីនេះ។"
+        "សូមស្វាគមន៍មកកាន់ SB24 Connect។\n"
+        "ទទួលបានព័ត៌មាន និងការណែនាំថ្មីៗអំពីសេវាកម្មតាម Telegram។"
     )
 
 
